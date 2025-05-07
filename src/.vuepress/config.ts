@@ -3,11 +3,12 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/chusan.tech/",
+  base: "/",
+  // base: "/chusan.tech/",
 
   lang: "zh-CN",
-  title: "文档演示",
-  description: "vuepress-theme-hope 的文档演示",
+  title: "chusan.tech",
+  description: "技术分享网站",
 
   theme,
 
