@@ -4,7 +4,7 @@ import { plumeTheme } from 'vuepress-theme-plume'
 
 export default defineUserConfig({
   // base: '/',
-  base: '/chusan/',
+  base: '/chusan.tech/',
   lang: 'zh-CN',
   locales: {
     '/': {
