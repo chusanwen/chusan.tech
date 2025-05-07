@@ -12,6 +12,7 @@ export const zhNavbar = defineNavbarConfig([
             { text: 'Pgsql', link: '/notes/Pgsql/README.md' }
     ]
   },
+  { text: 'Vue', link: '/notes/Vue/vuepress-theme-plume文档部署.md' },
   { text: '博客', link: '/blog/' },
   { text: '标签', link: '/blog/tags/' },
   { text: '归档', link: '/blog/archives/' },
